@@ -4,6 +4,7 @@ This script displays the complete weather report for a city. Basically, this is 
 ## Prerequisites
 * Python interpreter
 * Basic understanding of python programming concepts
+* You will need Open Wether Map API Key to run this script, to do the same you can visit https://api.openweathermap.org/ website. Create your account and generate your own API Key.
 
 ## How to Run
 1. Clone the repository or download the source code file.
@@ -16,9 +17,11 @@ This script displays the complete weather report for a city. Basically, this is 
 8. python3 main.py
 9. Follow the prompts to enter the city name.
 
+
 ![weather-Screenshot 2023-07-07 164951](https://github.com/SinghIsWriting/how_is_weather/assets/122283853/0d05861b-4841-442d-9d66-6fd5d3519732)
 
-    
+
+
 11. The program will display the weather report of the city.
 
 ## Usage
@@ -27,7 +30,7 @@ This script displays the complete weather report for a city. Basically, this is 
 3. The program displays the complete weather report of the city.
 
 ## Contributing
-Contributions to this repository are welcome. If you would like to add additional math problem-solving algorithms or improve the existing ones, please follow these steps:
+Contributions to this repository are welcome. If you would like to improve the existing code, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
